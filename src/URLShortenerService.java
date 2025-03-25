@@ -9,7 +9,6 @@ public class URLShortenerService {
     private static final String URL_REGEX = "^(http://|https://)[a-zA-Z0-9\\-]+(\\.[a-zA-Z0-9\\-]+)+(/[^\\s]*)?(\\?[^\\s]*)?(#\\S*)?$";
     private int counter = RandomNumberGenerator.generateRandomNumber();
 
-    private int random ;
     Base62Encoder base62Encoder = new Base62Encoder();
     URLStorage urlStorage;
     Map<String ,String> shortToLongMap;
