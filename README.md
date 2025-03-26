@@ -26,5 +26,5 @@ The URL Shortener project is designed to transform long URLs into shorter, manag
 # 🧑‍💻 Usage Instructions
 **Clone the repository:**
 
-[git clone https://github.com/your-username/url-shortener.git](url)<br/>
-[cd url-shortener](url)<br/>
+`git clone https://github.com/your-username/url-shortener.git`<br/>
+`cd url-shortener`<br/>
