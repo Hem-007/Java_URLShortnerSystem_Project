@@ -24,12 +24,26 @@ The URL Shortener project is designed to transform long URLs into shorter, manag
   • Automatically removes expired links from the system.<br/>
 
 # 🧑‍💻 Usage Instructions
-**Clone the repository:**
+**1. Clone the repository:**
 
 ```bash
 git clone https://github.com/your-username/url-shortener.git
 ```
 
 ```bash
-cd url-shortener```
+cd url-shortener
+```
+
+**2. Compile the project**
+```bash
+javac Main.java
+```
+
+**3. Run the program:**
+```bash
+java Main
+```
+
+# Contributing
+Contributions are welcome! Feel free to fork, open issues, or submit pull requests.
 
