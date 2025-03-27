@@ -9,22 +9,22 @@ The URL Shortener project is designed to transform long URLs into shorter, manag
 • Managing link expiration.<br/>
 # How It Works
 **1. Shorten a URL**.<br/>
-• Input a valid URL..<br/>
-• Generates a unique Base62 code..<br/>
-• Saves the mapping to urls.csv..<br/>
+  • Input a valid URL..<br/>
+  • Generates a unique Base62 code..<br/>
+  • Saves the mapping to urls.csv..<br/>
 
 **2. Redirect to Original URL**<br/>
-• Enter a short URL.<br/>
-• Retrieves and returns the original long URL.<br/>
+  • Enter a short URL.<br/>
+  • Retrieves and returns the original long URL.<br/>
 
 **3. Track Statistics**<br/>
-• Counts how many times each shortened URL is accessed.<br/>
+  • Counts how many times each shortened URL is accessed.<br/>
 
 **4. Manage Expiration**<br/>
-• Automatically removes expired links from the system.<br/>
+  • Automatically removes expired links from the system.<br/>
 
 # 🧑‍💻 Usage Instructions
 **Clone the repository:**
 
-`git clone https://github.com/your-username/url-shortener.git`<br/>
-`cd url-shortener`<br/>
+```git clone https://github.com/your-username/url-shortener.git```<br/>
+```cd url-shortener```<br/>
